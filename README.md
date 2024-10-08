@@ -1,9 +1,9 @@
-![npm version](https://img.shields.io/npm/v/supply-chain.svg)
-![npm downloads](https://img.shields.io/npm/dt/supply-chain.svg)
-![Bundle Size](https://img.shields.io/bundlephobia/min/supply-chain.svg)
-![Install Size](https://packagephobia.com/badge?p=supply-chain)
+![npm version](https://img.shields.io/npm/v/supply-chain-template.svg)
+![npm downloads](https://img.shields.io/npm/dt/supply-chain-template.svg)
+![Bundle Size](https://img.shields.io/bundlephobia/min/supply-chain-template.svg)
+![Install Size](https://packagephobia.com/badge?p=supply-chain-template)
 
-# supply-chain-core
+# supply-chain-template
 
 ## 🚧 Work in Progress 🚧
 This module is currently under active development, and I am working hard to roll out new features in the coming weeks.
@@ -14,12 +14,12 @@ Stay tuned for updates and thank you for your patience and support as I continue
 
 ## Overview
 
-Core utilities and types for the supply-chain Suite.
+
 
 
 ## Installation
 ```bash
-npm install supply-chain-core
+npm install supply-chain-template
 ```
 
 ## Example Usage
@@ -29,12 +29,12 @@ see the [GitHub Wiki](https://github.com/adam-ballinger/supply-chain/wiki) for f
 ## Help Improve – Your Feedback Matters! 🚀
 I'm committed to making this npm package the best it can be, and need your input to do it! If this package was useful, met your expectations, or if it fell short in some way, I'd love to hear from you. Your feedback will help me understand what's working and what features are in demand.
 
-👉 [Click here](https://tinyurl.com/4hm58xc2) or scan the QR code to give feedback in less than 60 seconds – your insights will directly influence future updates and features. Thank you for your insights! 🙌
+👉 [Click here](https://tinyurl.com/${}) or scan the QR code to give feedback in less than 60 seconds – your insights will directly influence future updates and features. Thank you for your insights! 🙌
 
-[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=tinyurl.com/4hm58xc2&margin=10)](https://tinyurl.com/4hm58xc2)
+[![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=tinyurl.com/4hm58xc2&margin=10)](https://tinyurl.com/${})
 
 ## Release Notes
-Check out the [Release Notes](https://github.com/adam-ballinger/supply-chain/releases)
+Check out the [Release Notes](https://github.com/adam-ballinger/supply-chain-template/releases)
 
 ## Contributing
 Interested in contributing? [See how to contribute](https://github.com/adam-ballinger/supply-chain/wiki/Developer-Guide), I'd love your help.
