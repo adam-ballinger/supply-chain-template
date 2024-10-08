@@ -1,7 +1,7 @@
 {
-  "name": "supply-chain-core",
+  "name": "supply-chain-template",
   "version": "0.0.0",
-  "description": "Core utilities and types for the Supply Chain Suite.",
+  "description": "Template for supply-chain modules.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -13,7 +13,6 @@
   },
   "keywords": [
     "supply chain",
-    "core",
     "utilities"
   ],
   "author": "Adam Ballinger",
